@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: vite-react-app
+    env: node
+    buildCommand: npm run build
+    startCommand: npm run preview
+    staticPublishPath: dist
