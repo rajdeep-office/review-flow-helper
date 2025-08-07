@@ -9,7 +9,6 @@
     "paths": {
       "@/*": ["./src/*"]
     },
-    "include": ["src/**/*.ts", "src/**/*.tsx"],
     "noImplicitAny": false,
     "noUnusedParameters": false,
     "skipLibCheck": true,
