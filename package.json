@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "start": "ts-node -r tsconfig-paths/register src/main.tsx"
+  "start": "ts-node -r tsconfig-paths/register src/main.tsx",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
